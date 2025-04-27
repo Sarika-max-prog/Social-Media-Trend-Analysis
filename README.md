@@ -47,6 +47,8 @@ This project builds an **interactive Power BI dashboard** to analyze social medi
 - Built a **Random Forest Classifier** to predict post virality.
 - Achieved **82% model accuracy**.
 - Validated results using **cross-validation** for model robustness.
+- ![image](https://github.com/user-attachments/assets/ec7a319d-f69d-400d-858c-38b361cb16fd)
+
 
 ### 6. Modeling with LDA and NLP
 - Applied **Latent Dirichlet Allocation (LDA)** for topic modeling to discover key themes.
