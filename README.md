@@ -1,7 +1,7 @@
 
 # Social Media Trend Analysis Dashboard
 
-## ![image](https://github.com/user-attachments/assets/d87dc63b-8814-4b49-99f2-b56c068b142f)
+## ![image](https://github.com/user-attachments/assets/b4e19556-646b-4958-bd38-f7f1aa60b627)
 
 - **Dashboard Overview:** Main view showing engagement, sentiment, and geographic trends.
 - **Hashtag Trends:** Line chart showing hashtag usage over time.
