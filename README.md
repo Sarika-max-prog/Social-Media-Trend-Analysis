@@ -17,7 +17,7 @@ This project builds an **interactive Power BI dashboard** to analyze social medi
 ## 🚀 Process
 
 ### 1. Fetching Data from Kaggle
-- Downloaded the **`cleaned_socialMedia_data.csv`** from Kaggle containing:
+- Downloaded the **`sentimentanalysis.csv`** from Kaggle containing:
   - Social media posts
   - Timestamps
   - Hashtags
